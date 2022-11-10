@@ -368,7 +368,7 @@ class WindowTopicEdit(QWidget):
 
     def initUI(self):
         self.setGeometry(700, 400, 700, 650)
-        self.setWindowTitle('Изменение формулы закона')
+        self.setWindowTitle('Изменение темы')
         text_font = QFont('Arial', 10)
 
         self.topic_list_view_label.move(550, 20)
