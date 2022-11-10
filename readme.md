@@ -7,3 +7,6 @@
 
 ## About project
 The forum allows you to add, change, delete, and view topics. The theme editor is intuitive and simple. The code does not contain unnecessary elements. The project uses the standard Python SQLite module, and the PyQt5 module.
+
+## Future additions
+Correction of the database work with Russian names of topics.
